@@ -68,5 +68,5 @@ Here are my writing samples:
 ## After generating
 
 1. Open `write-like-a-human/SKILL.md`
-2. Find **Part 2: Calibrate Your Voice**
-3. Replace the `<!-- VOICE_PROFILE_START -->` comment with the generated output
+2. Find **Part 2: Voice Profile**
+3. Replace the `[USER: ...]` placeholder with the generated output
