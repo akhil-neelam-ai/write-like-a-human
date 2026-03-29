@@ -6,11 +6,11 @@ You just asked an AI to write an email. It came back with this:
 
 Nobody talks like that. Your reader knows it. Your recruiter knows it. Your professor knows it.
 
-This skill fixes it.
+This skill fixes it. Feed it samples of your own writing, and the AI stops sounding like a machine and starts sounding like you.
 
 ## What it is
 
-A single markdown file you drop into any AI tool. It rewrites how the AI writes — killing the patterns that scream "a machine made this" and replacing them with prose that sounds like you sat down and typed it yourself.
+A single markdown file you drop into any AI tool. It kills the patterns that scream "a machine made this" and replaces them with prose that matches your actual voice — calibrated from your own writing samples.
 
 Works with **Claude, ChatGPT, Gemini, Manus**, and anything else that takes a system prompt.
 
